@@ -113,7 +113,7 @@ https://github.com/Rohama789-blip/Customer-Churn-Streamlit-App
 
 ## Author
 
-Rohama789-blip
+Rohama Kulsoom
 
 ## Internship
 
